@@ -1,4 +1,4 @@
-Let's do a git tutorial!
+Let's do a git tutorial! It's great!
 Steps:
 
 1. Initialize
